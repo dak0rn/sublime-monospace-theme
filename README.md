@@ -1,7 +1,7 @@
 # sublime-monospace-theme
 A "syntax off" theme for Sublime Text
 
-![](image.ong)
+![](image.png)
 
 ## Installation
 
